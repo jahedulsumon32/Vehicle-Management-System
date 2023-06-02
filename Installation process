@@ -1,0 +1,5 @@
+1. Exatract the "Vehicle_Management_system_Final2" file and import it into eclipse project.
+2. In eclipse, go to the bulid path and add "mysql-connector-java-5.1.17-bin.jar"
+3. Connect to the Xamp sql server.
+4. Import the database to SQLyog.
+5. At last, run the main.java from eclipse.
